@@ -1,6 +1,6 @@
 ## This document is to introduce each member in our ACLoong group.Although the introduction is not so detail,we will supplement it in the future.
 
-## [英文版](About-Us/Introductions.md)
+## [英文版](/Introductions.md)
 
 ### Jovany Wang ###
 ***
