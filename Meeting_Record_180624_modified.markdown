@@ -15,10 +15,9 @@ summary and plans for nba-tall and snails project
 
 **Attendance at Meeting:**@MrKingHH @hxlong941110 @jsondrm @throcean @wangqing1218 @zmzhouXJTU @Tina66 @July-zhang
 
-**Meeting Agenda:**
-Speak freely about the project subject
+**Meeting Agenda:**Speak freely about the project subject
 
-**Ation Items:**
+**Action Items:**
 
 (1)Create **aliyun server**(@MrKingHH);
 
