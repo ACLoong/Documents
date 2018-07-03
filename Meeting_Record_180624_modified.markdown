@@ -1,23 +1,27 @@
-#Meeting record
-
-**project name:**
+# Meeting record
+---
+### Project name:
 summary and plans for nba-tall project
 
-**Date of meeting:**
+### Date of meeting:
 June 24,2018
 
-**Location:**WeChat
+### Location:
+WeChat
 
-**Minutes prepared by:**Wang Qing and JinYuxin
+### Minutes prepared by:
+Wang Qing and JinYuxin
 
-**Purpose of Meeting:**
+### Purpose of Meeting:
 summary and plans for nba-tall and snails project
 
-**Attendance at Meeting:**@MrKingHH @hxlong941110 @jsondrm @throcean @wangqing1218 @zmzhouXJTU @Tina66 @July-zhang
+### Attendance at Meeting:
+@MrKingHH @hxlong941110 @jsondrm @throcean @wangqing1218 @zmzhouXJTU @Tina66 @July-zhang
 
-**Meeting Agenda:**Speak freely about the project subject
+### Meeting Agenda:
+Speak freely about the project subject
 
-**Action Items:**
+### Action Items:
 
 (1)Create **aliyun server**(@MrKingHH);
 
@@ -27,8 +31,9 @@ summary and plans for nba-tall and snails project
 
 (4)Start writing frame of **snail**(@wangqing1218).
 
-**Next Meeting:**
+### Next Meeting:
 Undetermine
 
-
-**Group:ACLoong Top Coding**
+---
+### Group:
+ACLoong Top Coding
