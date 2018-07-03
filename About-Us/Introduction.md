@@ -107,3 +107,11 @@ This document is to introduce each member in our ACLoong group. Although the int
 - His Chinese name is Xue Li, he has been studying at Xi'an Jiaotong University as a Software Engineering master from 2017.
 - His research direction is Sentiment Analysis and Text Mining.
 - His main programming language is Java, the secondary programming language is Python.
+***
+
+### StupidTAO ###
+***
+- His Chinese name is Haitao Cao, he will study at Beihang University as a master at 2018.
+- His current study direction is blockchain.
+- His main programming language is C++.
+***
