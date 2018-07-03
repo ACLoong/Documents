@@ -1,6 +1,6 @@
 # Introduction Of Team Member 
 
-## [中文版](/Introductions_zh.md)
+## [中文版][1]
 
 This document is to introduce each member in our ACLoong group. Although the introduction is not so detail,we will supplement it in the future.
 
@@ -115,3 +115,5 @@ This document is to introduce each member in our ACLoong group. Although the int
 - His current study direction is blockchain.
 - His main programming language is C++.
 ***
+
+[1]:https://github.com/ACLoong/Documents/blob/master/About-Us/Introduction_zh.md

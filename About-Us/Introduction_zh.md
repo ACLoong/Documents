@@ -1,6 +1,6 @@
 ## This document is to introduce each member in our ACLoong group.Although the introduction is not so detail,we will supplement it in the future.
 
-## [英文版](/Introductions.md)
+## [英文版][1]
 
 ### Jovany Wang ###
 ***
@@ -76,3 +76,9 @@
 ***
 **中文名是曹海涛，北京航空航天大学2018级硕士研究生。他主要研究方向是区块链技术。他的主要编程语言是C++。**
 ***
+
+
+
+
+
+[1]:https://github.com/ACLoong/Documents/blob/master/About-Us/Introduction.md
